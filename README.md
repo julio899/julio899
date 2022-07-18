@@ -7,7 +7,8 @@ Stacks I have worked with : Angular, Ionic, VueJs, Laravel, Symfony.
 Things I have recently experimented with : API Rest, socket.io, OpenCart, PrestaShop, AWS EC2, AWS RDS,  commander, Linux Enviromets, and a lot of other ui-libs...
 <br/>
 </p>
-### 🛠️ Languages and Tools:
+
+## 🛠️ Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![VueJs](https://img.shields.io/badge/-VueJs-black?style=flat-square&logo=vue.js)
