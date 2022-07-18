@@ -43,7 +43,16 @@ Things I have recently experimented with : API Rest, socket.io, OpenCart, Presta
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=julio899&repo=j899"/>
 </a>
 
+---
 
+
+❤️ Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Julio_Vinachi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/julio899/)
+or [![Gmail Badge](https://img.shields.io/badge/-julio899@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jluio899@gmail.com)](mailto:julio899@gmail.com)
+
+❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/aman-atg?label=Follow&style=social)](https://github.com/julio899/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@julio899-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/julio899)](https://twitter.com/julio899)
+and be a part of my journey... and See if I can make it or not!
+
+❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Julio_Vinachi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio899/)](https://www.linkedin.com/in/julio899/)
 
 <!--
 **julio899/julio899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
