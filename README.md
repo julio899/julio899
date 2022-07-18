@@ -14,6 +14,9 @@ Things I have recently experimented with : API Rest, socket.io, OpenCart, Presta
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![Mysql](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=symfony)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
@@ -27,6 +30,8 @@ Things I have recently experimented with : API Rest, socket.io, OpenCart, Presta
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Linux](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Amazon S3](https://img.shields.io/badge/-Amazon_S3-black?style=flat-square&logo=s3)
+![Amazon aws](https://img.shields.io/badge/-Amazon_AWS-black?style=flat-square&logo=aws)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=flat-square&logo=blockchain)
 
 
