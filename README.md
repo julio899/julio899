@@ -8,8 +8,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julio899&layout=compact" height="170px"/>
 </a>
 <a href="https://github.com/julio899">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=julio899&repo=smart-contracts-subscription" width="480px"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=julio899&repo=j899" width="480px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=julio899&repo=smart-contracts-subscription"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=julio899&repo=j899"/>
 </a>
 
 
