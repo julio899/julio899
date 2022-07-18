@@ -36,8 +36,6 @@ Things I have recently experimented with : API Rest, socket.io, OpenCart, Presta
 ![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=flat-square&logo=blockchain)
 
 <br>
-<br>
-<br>
   <p align="center">
   <img src="https://github.com/julio899/julio899/blob/main/preview.gif" width="350" aling="center"/>
   </p>
