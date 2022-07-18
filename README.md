@@ -35,6 +35,13 @@ Things I have recently experimented with : API Rest, socket.io, OpenCart, Presta
 ![Amazon aws](https://img.shields.io/badge/-Amazon_AWS-black?style=flat-square&logo=aws)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=flat-square&logo=blockchain)
 
+<br>
+<br>
+<br>
+  <center>
+  <img src="https://github.com/Necmttn/Necmttn/blob/master/preview.gif" width="350" aling="center"/>
+  </center>
+<br>
 
 - 🔭 I’m currently expororer and work in Blockchain & Personal Project. 
 - 👯 I’m looking to collaborate on Blockchain Projects
