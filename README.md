@@ -4,7 +4,7 @@ A Full Stack Developer 🚀 from Venezuela. I consider myself as a skilled JS,Ph
 <br/>
 Stacks I have worked with : Angular, Ionic, VueJs, Laravel, Symfony.
 <br/>  
-Things I have recently experimented with : API Rest, socket.io, OpenCart, PrestaShop, AWS EC2, AWS RDS,  commander, Linux Enviromets, and a lot of other ui-libs...
+Things I have recently experimented with : API Rest, socket.io, AWS EC2, AWS RDS, commander, Linux Enviromets, and a lot of other ui-libs...
 <br/>
 </p>
 
