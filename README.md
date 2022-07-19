@@ -31,6 +31,7 @@ Things I have recently experimented with : API Rest, socket.io, AWS EC2, AWS RDS
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Linux](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![NestJs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs)
 ![Amazon S3](https://img.shields.io/badge/-Amazon_S3-black?style=flat-square&logo=s3)
 ![Amazon aws](https://img.shields.io/badge/-Amazon_AWS-black?style=flat-square&logo=aws)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=flat-square&logo=blockchain)
