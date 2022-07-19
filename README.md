@@ -29,7 +29,7 @@ Things I have recently experimented with : API Rest, socket.io, AWS EC2, AWS RDS
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-![Linux](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=linux)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![NestJs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs)
 ![Amazon S3](https://img.shields.io/badge/-Amazon_S3-black?style=flat-square&logo=s3)
