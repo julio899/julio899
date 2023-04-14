@@ -2,9 +2,9 @@
 <p>
 A Full Stack Developer 🚀 from Venezuela. I consider myself as a skilled JS,Php & mix Developer.
 <br/>
-Stacks I have worked with : Angular, Ionic, VueJs, Laravel, Symfony.
+Stacks I have worked with : Typescript, Angular, Ionic, VueJs, Vue3, Node, Nestjs, Php, Lumen, Laravel, Symfony.
 <br/>  
-Things I have recently experimented with : API Rest, socket.io, AWS EC2, AWS RDS, commander, Linux Enviromets, and a lot of other ui-libs...
+Things I have recently experimented with : API Rest, socket.io, AWS EC2, RDS, MongoDb, Docker, Linux Enviromets, and a lot of other ui-libs...
 <br/>
 </p>
 
