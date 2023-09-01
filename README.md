@@ -47,12 +47,8 @@ Things I have recently experimented with : API Rest, socket.io, AWS EC2, RDS, Mo
 - 🌱 I’m currently learning Blockchain Cross Data, Cloud AWS services, LXD conainers, Migrations Realtime, Critical Security in Blockchain.
 
 <a href="https://github.com/julio899">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=julio899&hide=contribs&count_private=true&show_icons=true&include_all_commits=true" height="170px"  width="480px"/>
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julio899&layout=compact" height="170px"/>
-</a>
-<a href="https://github.com/julio899">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=julio899&repo=smart-contracts-subscription"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=julio899&repo=j899"/>
 </a>
 
 ---
